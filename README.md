@@ -1,2 +1,2 @@
 # xiaohoo.github.io
-personal web built
+欢迎来到二狗的个人网站
